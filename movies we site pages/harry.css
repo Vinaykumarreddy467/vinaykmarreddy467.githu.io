@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(140, 140, 240);
+    size: 200rem;
+    font-style: italic;
+    font-family: cursive;
+    font-weight: 100;
+    text-align: center;
+    padding: auto;
+    margin:auto;
+}
+p {
+    font: green;
+    text-align: center;
+}
+.centre{
+    text-align: center;
+}
+
+h3{
+     color: rgb(196, 42, 42);
+}
